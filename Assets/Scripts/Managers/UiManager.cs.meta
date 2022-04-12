@@ -3,7 +3,23 @@ guid: bde38aaf2d583fe4194aaf730ac4bbfb
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - stats: {fileID: 11400000, guid: 274b34ca50f7eac40a60571120d576d6, type: 2}
+  - panelStats: {instanceID: 0}
+  - vidaPlayer: {instanceID: 0}
+  - manaPlayer: {instanceID: 0}
+  - expPlayer: {instanceID: 0}
+  - VidaTMP: {instanceID: 0}
+  - ManaTMP: {instanceID: 0}
+  - ExpTMP: {instanceID: 0}
+  - statDanioTMP: {instanceID: 0}
+  - statDefensaTMP: {instanceID: 0}
+  - statCriticoTMP: {instanceID: 0}
+  - statBloqueoTMP: {instanceID: 0}
+  - statVelocidadTMP: {instanceID: 0}
+  - statNivelTMP: {instanceID: 0}
+  - statExpTMP: {instanceID: 0}
+  - statExpRequeridaTMP: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
